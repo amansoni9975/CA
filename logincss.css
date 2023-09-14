@@ -1,0 +1,114 @@
+#sideimg{
+    position: absolute;
+width: 700px;
+height: 470.91px;
+left: 120px;
+top: 227px;
+
+}
+#welcomeline{
+    position: absolute;
+
+left: 970px;
+top: 280px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+}
+#username{
+    position: absolute;
+width: 303px;
+height: 54px;
+left: 970px;
+top: 388px;
+
+background: #FFFFFF;
+border: 0.5px solid #AFAFAF;
+border-radius: 5px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 23px;
+
+
+
+color: #A3A3A3;
+
+}
+#password{
+    position: absolute;
+width: 303px;
+height: 54px;
+left: 970px;
+top: 462px;
+
+background: #FFFFFF;
+border: 0.5px solid #AFAFAF;
+border-radius: 5px;
+
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 23px;
+
+
+
+color: #A3A3A3;
+
+}
+#signin{
+    position: absolute;
+width: 310px;
+height: 54px;
+left: 970px;
+top: 532px;
+
+background: #8F4FDD;
+border-radius: 5px;
+border-width: 0ch;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+#logo{
+    position: absolute;
+width: 80px;
+height: 80px;
+left: 169px;
+top: 38px;
+
+}
+#logotxt{
+    position: absolute;
+width: 116px;
+height: 51px;
+left: 260px;
+top: 50px;
+
+font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: smaller;
+    letter-spacing: 1px;
+
+color: #000000;
+}
+#log{
+    position: absolute;
+width: 55px;
+height: 55px;
+left: 1248px;
+top: 55px;
+
+}

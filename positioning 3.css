@@ -1,0 +1,582 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+#pic{
+    position:relative;
+    top: 20px;
+    left: 100px;
+    height:80px;
+}
+#logo{
+    position:absolute;
+    top: 40px;
+    left:190px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: smaller;
+    letter-spacing: 1px;
+}   
+#profile{
+    position:absolute;
+    right:140px;
+    top:50px;
+    height:60px;
+    
+}
+#login{
+    position:absolute;
+    right:230px;
+    top:65px;
+    font-size: larger;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #2C2C2C;
+    background-color:#FFFFFF;
+    background:"none";
+    border:none;
+    text-decoration: none;
+   
+    
+}
+#long{
+    position:absolute;
+    right:400px;
+    top:65px;
+    font-size: larger;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #2C2C2C;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    
+
+}
+#underline{
+    position: absolute;
+    width: 190px;
+    right:630px;
+    top:86px;
+    
+    /* border-top:  1px solid rgba(166, 176, 249, 1);  */
+}
+#line2{
+    position: absolute;
+    left: 540px;
+top: 1550px;
+width: 200px;
+height: 0px;
+color: #FFFFFF;
+/* border: 1px solid #FFFFFF; */
+}
+
+#div{
+   
+        position:absolute;
+        right:650px;
+        top:65px;
+        font-size: larger;
+        font-family: 'Lato', sans-serif;
+        font-weight: 400;
+        color: #2C2C2C;
+        background-color: #FFFFFF;
+        text-decoration: none;
+    
+    }
+.container{
+    position: absolute;
+    width:1260px ; height:550px ; border: 2px solid rgba(0,0,0,.2);
+    top: 150px;
+    left:125px;
+    border-radius: 10px;
+    
+    
+
+}
+#clr1{
+    position:absolute;
+    top: 200px;
+    left: 950px;
+    width: 30px; height:10px;       background: rgb(207, 95, 51);
+    
+}
+
+#clr2{
+    position: absolute;
+    top: 230px;
+    left: 950px;
+    width: 30px; height:10px;  background-color:rgba(166, 176, 249, 1) ;
+    
+    
+}
+#income{
+    position:absolute;
+    top:200px;
+    left:170px;
+    font-size: larger;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+/* #txtbox1{
+    position:absolute;
+    top:203px;
+    left:625px;
+    width: 85px;
+    height:18px;
+    border:.5px;
+    border-radius: 2px;
+    
+    background: rgba(234, 234, 234, 1);
+} */
+#rupee{
+    position:absolute;
+    top:203px;
+    left:615px;
+    width: 10px;
+    height:18px;
+    color:#6C6C6C;
+    
+    background: rgba(234, 234, 234, 1);
+
+}
+#rupee1{
+    position:absolute;
+    top:318px;
+    left:615px;
+    width: 10px;
+    height:18px;
+    color:#6C6C6C;
+    
+    background: rgba(234, 234, 234, 1);
+
+}
+#para{
+    position:absolute;
+    top:203px;
+    left:625px;
+    width: 65px;
+    height:18px;
+    
+    color:#6C6C6C;
+    background: rgba(234, 234, 234, 1);
+}
+
+#para1{
+    position:absolute;
+    top:318px;
+    left:625px;
+    width: 65px;
+    height:18px;
+    border:.5px;
+    border-radius: 2px;
+    color:#6C6C6C;
+    background: rgba(234, 234, 234, 1);
+}
+
+
+#para2{
+    position:absolute;
+    top:433px;
+    left:625px;
+    width: 65px;
+    height:18px;
+    border:.5px;
+    border-radius: 2px;
+    color:#6C6C6C;
+    background: rgba(234, 234, 234, 1);
+}
+
+#rupee2{
+    position:absolute;
+    top:436px;
+    left:670px;
+    width: 10px;
+    height:18px;
+    color:#6C6C6C;
+    font-size: smaller;
+    background: rgba(234, 234, 234, 1);
+
+}
+
+
+
+/* pie chart  */
+#chartContainer{
+    position:absolute;
+    height: 310px; 
+    width: 310px;
+    top:300px;
+    left    :900px;
+    
+}
+
+#details{
+    position:absolute;
+    left:1028px;
+    top:650px;
+
+}
+
+
+#range1{
+    position:absolute;
+    top:245px;
+    left:170px;
+    width:550px ;
+}
+
+#amt{
+    position:absolute;
+    top:315px;
+    left:170px;
+    font-size: larger;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+
+
+#range2{
+    position:absolute;
+    top:362px;
+    left:170px;
+    width:550px ;
+}
+#time{  
+    position:absolute;
+    top:430px;
+    left:170px;
+    font-size: larger;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+
+
+#range3{
+    position:absolute;
+    top:475px;
+    left:170px;
+    width:550px ;
+}
+#quote{
+    position:absolute;
+    top:510px;
+    left:330px;
+
+
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+color: #C6C6C6;
+
+}
+#button{
+    position:absolute;
+    top:580px;
+    left:390px;
+    background-color:  rgba(83, 103, 255, 1);
+    border: 0ch;
+    padding: 8px 40px;
+    font-family: 'lato';
+    font-size: larger;
+    color: aliceblue;
+    border-radius: 5px;
+}
+#invst{
+    position: absolute;
+    left:1000px;
+    top: 197px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}
+#ret{
+    position: absolute;
+    top:226px;
+    left:1000px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    
+    
+}
+
+/* second page */
+#imgo{
+    position:absolute;
+    height: 260px;
+    width: 600px;
+    left: 459px;
+    top: 840px;
+    border-radius: 5px;
+
+}
+#text1{
+    position:absolute;
+    
+left: 562px;
+top: 1190px;
+border-radius: nullpx;
+
+    font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+
+text-align: center;
+color: #2C2C2C;
+
+
+
+}
+#txt2{
+    position: absolute;
+
+left: 368px;
+top: 1237px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+text-align: center;
+
+color: #6C6C6C;
+
+
+}
+.container2{
+    position: absolute;
+width: 1517px;
+height: 600px;
+left: 0px;
+top: 2400px;
+
+background: #283965;
+border-radius: 0%;
+}
+
+#button3{
+    position:absolute;
+    top:1350px;
+    left:700px;
+    height: 52px;
+    width:227px;
+    border:0px;
+    border-radius: 5px;
+    font-family: lato;
+    font-size: 19px;
+    font-weight: 700;
+    color: black;
+    /* background-color: rgba(40, 57, 101, 1); */
+
+}
+
+/* page 3 */
+#dividend{
+    position: absolute;
+    
+left: 550px;
+top: 1520px;
+background: none;
+border: none;
+color: #FFFFFF;
+
+font-family: Lato;
+font-size: 20px;
+font-weight: 500;
+
+letter-spacing: 0em;
+text-align: center;
+
+}
+#longterm{
+    position: absolute;
+    
+left: 780px;
+top: 1520px;
+background: none;
+border: none;
+color: #FFFFFF;
+
+font-family: Lato;
+font-size: 20px;
+font-weight: 500;
+
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+#img1{
+    position: absolute;
+    left: 150px;
+top: 1620px;
+    height: 560px;
+    width: 1200px;
+}
+
+
+
+
+
+
+#logo1{
+    position: absolute;
+    height: 75px;
+width: 81px;
+left: 645px;
+top: 2600px;
+border-radius: 0px;
+
+}
+#logoname{
+    position: absolute;
+width: 116px;
+height: 51px;
+left: 755px;
+top: 2610px;
+
+font-family: 'lato';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+
+color: #FFFFFF;
+letter-spacing: 1px;
+}
+#QUOTE2{
+    position: absolute;
+width: 348px;
+height: 23px;
+left: 587px;
+top: 2712px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#abt{
+    position: absolute;
+width: 75px;
+height: 17px;
+left: 717px;
+top: 2850px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+#line{
+    position: absolute;
+width: 78px;
+height: 0px;
+left: 715px;
+top: 2880px;
+
+border: 1px solid #FFFFFF;
+}
+#linkedin{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 655px;
+top: 2910px;
+}
+#instagram{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 815px;
+top: 2910px;
+}
+#twitter{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 735px;
+top: 2910px;
+
+}
+
+
+#log1{
+    position:absolute;
+    
+    width:60px;
+    height:60px;
+}
+
+#log2{
+    position:absolute;
+    
+    width:60px;
+    height:60px;
+}
+
+#log3{
+    position:absolute;
+    
+    width:60px;
+    height:60px;
+}
+
+#log4{
+    position:absolute;
+    
+    width:60px;
+    height:60px;
+}
+
+#log5{
+    position:absolute;
+    
+    width:60px;
+    height:60px;
+}
+#log6{
+    position:absolute;
+    
+    width:60px;
+    height:60px;
+}
+
+
+
+
+.container3{
+    position: absolute;
+    /* top:1450; */
+    height:780px;
+
+    width: 1517px;
+    left:0px;
+    top:1450px;
+    border-radius: 0px;
+    background-color: #283965;
+
+
+}
+
+
+

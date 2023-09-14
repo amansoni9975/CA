@@ -1,0 +1,246 @@
+#details{
+    position: absolute;
+/* width: 96px; */
+/* height: 34px; */
+left: 161px;
+top: 118px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #000000;
+}
+
+#loong{
+    position: absolute;
+width: 261px;
+height: 30px;
+left: 161px;
+top: 160px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+#line{
+    position: absolute;
+width: 1241px;
+height: 0px;
+left: 138px;
+top: 210px;
+
+border: 1px solid #000000;
+}
+#Investedamount{
+    position: absolute;
+width: 256px;
+height: 33px;
+left: 161px;
+top: 246px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+#capitalgains{
+ 
+    position: absolute;
+    width: 119px;
+    height: 24px;
+    left: 161px;
+    top: 304px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+
+
+}
+#Returncapital{
+    position: absolute;
+    width: 131px;
+    height: 24px;
+    left: 161px;
+    top: 362px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+
+
+
+}
+#sip{
+    position: absolute;
+width: 249px;
+height: 34px;
+left: 161px;
+top: 472px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+}
+#sgb{
+    position: absolute;
+    width: 277px;
+    height: 73px;
+    left: 161px;
+    top: 530px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+    
+
+}
+#us{
+    position: absolute;
+width: 277px;
+height: 73px;
+left: 161px;
+top: 628px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+#amt1{
+    position: absolute;
+    width: 156px;
+    height: 20px;
+    left: 571px;
+    top: 246px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: right;
+    color: #000000;
+    
+}
+#amt2{
+    position: absolute;
+width: 156px;
+height: 20px;
+left: 571px;
+top: 304px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+text-align: right;
+color: #000000;
+
+    
+}
+#amt3{
+    position: absolute;
+    width: 156px;
+    height: 20px;
+    left: 571px;
+    top: 369px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: right;
+    color: #000000;
+    
+}
+#amt4{
+    position: absolute;
+width: 156px;
+height: 30px;
+left: 571px;
+top: 468px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+text-align: right;
+color: #000000;
+
+}
+#amt5{
+    position: absolute;
+    width: 156px;
+    height: 32px;
+    left: 571px;
+    top: 542px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: right;
+    color: #000000;
+    
+}
+#amt6{
+    position: absolute;
+    width: 156px;
+    height: 32px;
+    left: 571px;
+    top: 628px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: right;
+    color: #000000;
+    
+    
+}
